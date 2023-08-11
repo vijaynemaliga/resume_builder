@@ -1,0 +1,15 @@
+.basicinfo{
+    display:flex;
+    justify-content: space-between;
+
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.general{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

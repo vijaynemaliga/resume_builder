@@ -1,0 +1,9 @@
+.edu{
+    display:grid;
+    grid-template-rows:auto auto auto;
+    justify-content: center;
+
+}
+.edu_input{
+    width: 60vw;
+}
